@@ -1,2 +1,2 @@
-# shm-truncated-analyses
-Code used to analyse the error introduced by rounding down smart heat meter data
+# Increasing the accuracy of low-resolution commercial smart heat meter data and analysing its error
+This repository will include the code used for the analyses in Schaffer M., Leiria D., Vera-Valdés J.E., Marszal-Pomianowska A. (2023) INCREASING THE ACCURACY OF LOW-RESOLUTION COMMERCIAL SMART HEAT METER DATA AND ANALYSING ITS ERROR, 2023 European Conference on Computing in Construction, once the conference proceeding is published.
