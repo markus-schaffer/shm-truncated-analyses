@@ -11,7 +11,7 @@ This code was used for all analysis, the algorithm presented in the above-mentio
 4.	Analyse the results of the proposed algorithm with the optimal settings 
 ## Processing steps
 The code files are supposed to be run in the numbered order.
-## Important notice:
+## Important notice
 The data used in the before mentioned publication is not included in the repository as the authors have not the right to distribute the data. The code expects as input as .csv file with the following layout:
 | ID | Time | Total |
 | ------------- | ------------- | ------------- |
