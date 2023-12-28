@@ -12,7 +12,7 @@ This code was used for all analysis, the algorithm presented in the above-mentio
 ## Processing steps
 The code files are supposed to be run in the numbered order.
 ## Important notice
-The data used in the before mentioned publication is not included in the repository as the authors have not the right to distribute the data. The code expects as input as .csv file with the following layout:
+The data used in the before mentioned publication is not included in the repository as the authors have not the right to distribute the data. The code expects as input a .csv file with the following layout:
 | ID | Time | Total |
 | ------------- | ------------- | ------------- |
 | Unique ID for each building | Hourly timestamps for every meter reading| Total recoded energy use for the respective hour in Wh | 
